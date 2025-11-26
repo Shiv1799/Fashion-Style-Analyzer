@@ -3,6 +3,8 @@
 A vision-LLM powered fashion analysis tool that takes a user-uploaded outfit image, finds visually similar items from an embedding database, and generates a clean, retailer-friendly fashion description using multimodal AI.
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Shiv1799/Fashion-Style-Analyzer/main/fashion%20analyser%202.png" width="600"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Shiv1799/Fashion-Style-Analyzer/main/fashion%20analyser.png" width="600"> </p>
+
 📌 Overview
 
 Fashion Style Analyzer is an end-to-end pipeline combining:
